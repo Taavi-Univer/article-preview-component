@@ -51,5 +51,5 @@ Mobile view:
 
 ## Author
 
-- Website - (https://github.com/co555?tab=repositories)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/co555)
+- Website - [https://github.com/co555?tab=repositories]
+- Frontend Mentor - https://www.frontendmentor.io/profile/co555
