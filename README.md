@@ -38,8 +38,8 @@ Mobile view:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/articlepreviewcomponent-with-flexbox-and-css-grid-6MrwnYVIS)
-- Live Site URL: [Add live site URL here](https://co555.github.io/article-preview-component/)
+- Solution URL: https://www.frontendmentor.io/solutions/articlepreviewcomponent-with-flexbox-and-css-grid-6MrwnYVIS
+- Live Site URL: https://co555.github.io/article-preview-component/
 
 ## My process
 
@@ -51,5 +51,5 @@ Mobile view:
 
 ## Author
 
-- Website - [https://github.com/co555?tab=repositories]
+- Website - https://github.com/co555?tab=repositories
 - Frontend Mentor - https://www.frontendmentor.io/profile/co555
