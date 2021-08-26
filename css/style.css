@@ -29,14 +29,11 @@ body {
   box-shadow: 2px 2px 22px -7px #888;
 }
 
-/* --------Header Image---------------- */
-
 #drawersImg {
   width: 100%;
   border-radius: 1em 1em 0 0;
 }
 
-/* -----------About------------ */
 .about {
   line-height: 1.7em;
   padding: 2.5em 2.5em 0;
@@ -54,7 +51,6 @@ body {
   color: var(--desaturatedDarkBlue);
 }
 
-/* ----------User----------------- */
 .user {
   height: 5em;
   display: flex;
@@ -91,7 +87,6 @@ body {
   border: none;
 }
 
-/* ----------Share---------------- */
 .share {
   height: 5em;
   width: 100%;
@@ -138,13 +133,11 @@ body {
   display: none;
 }
 
-/* ----------Footer----------------- */
 .attribution {
   margin-top: 2em;
   opacity: 50%;
 }
 
-/* -----------Media Queries------------- */
 @media (min-width: 60em) {
   .grid-container {
     min-width: 60em;
