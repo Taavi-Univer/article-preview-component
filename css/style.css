@@ -43,7 +43,7 @@ body {
   margin-bottom: 0.9em;
 }
 
-.title {
+.title h1 {
   font-weight: bold;
   font-size: 1rem;
   color: var(--veryDarkGrayishBlue);
@@ -171,7 +171,7 @@ body {
     padding-right: 3.4em;
   }
 
-  .title {
+  .title h1 {
     font-size: 1.2rem;
     line-height: 1.5em;
   }
