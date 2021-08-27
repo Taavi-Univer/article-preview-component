@@ -25,10 +25,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop view:
-![](./images/co555-article-preview-component-desktop-view.png)
+![](./images/co555-article-preview-component-desktop.png)
 
 Mobile view:
-![](./images/co555-article-preview-component-mobile-view.png)
+![](./images/co555-article-preview-component-mobile.png)
 
 
 ### Links
