@@ -43,6 +43,7 @@ Mobile view:
 - Mobile-first workflow
 - CSS Grid
 - Flexbox
+- Javascript
 
 ## Author
 
