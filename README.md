@@ -11,12 +11,11 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop view:
-![](./images/co555-article-preview-component-desktop.png)
-
 Mobile view:
-![](./images/co555-article-preview-component-mobile.png)
+![](./design/taavi-univer.github.io_article-preview-component_mobile.png)
 
+Desktop view:
+![](./design/taavi-univer.github.io_article-preview-component_desktop.png)
 
 ### Links
 
