@@ -19,7 +19,7 @@ Desktop view:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/articlepreviewcomponent-with-flexbox-and-css-grid-6MrwnYVIS
+- Solution URL: https://www.frontendmentor.io/solutions/article-preview-component-0bfjmrlm1
 - Live Site URL: https://taavi-univer.github.io/article-preview-component/
 
 ## My process
